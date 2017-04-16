@@ -1,0 +1,18 @@
+c:\users\muslu\documents\visual studio 2015\Projects\Oyun\Oyun\bin\Debug\Oyun.exe.config
+c:\users\muslu\documents\visual studio 2015\Projects\Oyun\Oyun\obj\Debug\Oyun.csprojResolveAssemblyReference.cache
+c:\users\muslu\documents\visual studio 2015\Projects\Oyun\Oyun\obj\Debug\Oyun.Main.resources
+c:\users\muslu\documents\visual studio 2015\Projects\Oyun\Oyun\obj\Debug\Oyun.Properties.Resources.resources
+c:\users\muslu\documents\visual studio 2015\Projects\Oyun\Oyun\obj\Debug\Oyun.csproj.GenerateResource.Cache
+c:\users\muslu\documents\visual studio 2015\Projects\Oyun\Oyun\bin\Debug\Oyun.exe
+c:\users\muslu\documents\visual studio 2015\Projects\Oyun\Oyun\bin\Debug\Oyun.pdb
+c:\users\muslu\documents\visual studio 2015\Projects\Oyun\Oyun\obj\Debug\Oyun.exe
+c:\users\muslu\documents\visual studio 2015\Projects\Oyun\Oyun\obj\Debug\Oyun.pdb
+C:\Users\Muslu\Documents\GitHub\Antiaircaft\Oyun\bin\Debug\Oyun.exe.config
+C:\Users\Muslu\Documents\GitHub\Antiaircaft\Oyun\obj\Debug\Oyun.exe
+C:\Users\Muslu\Documents\GitHub\Antiaircaft\Oyun\obj\Debug\Oyun.pdb
+C:\Users\Muslu\Documents\GitHub\Antiaircaft\Oyun\bin\Debug\Oyun.exe
+C:\Users\Muslu\Documents\GitHub\Antiaircaft\Oyun\bin\Debug\Oyun.pdb
+C:\Users\Muslu\Documents\GitHub\Antiaircaft\Oyun\obj\Debug\Oyun.csprojResolveAssemblyReference.cache
+C:\Users\Muslu\Documents\GitHub\Antiaircaft\Oyun\obj\Debug\Oyun.Main.resources
+C:\Users\Muslu\Documents\GitHub\Antiaircaft\Oyun\obj\Debug\Oyun.Properties.Resources.resources
+C:\Users\Muslu\Documents\GitHub\Antiaircaft\Oyun\obj\Debug\Oyun.csproj.GenerateResource.Cache
